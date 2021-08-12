@@ -5,3 +5,9 @@ const pizza = {
 }
 
 console.log(pizza);
+
+/* expected output:
+  toppings: [ 'cheese', 'sauce', 'pepperoni' ],
+  crust: 'deep dish',
+  serves: 2
+*/
